@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "laravel-echo": "^1.16.1",
+    "pusher-js": "^8.4.0-rc2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
